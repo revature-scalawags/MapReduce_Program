@@ -214,3 +214,545 @@ Starting thread that pumps server stdout and redirects it to the client stdout..
 2020.12.30 19:49:41 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
 2020.12.30 19:49:50 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
 2020.12.30 19:59:56 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+Dec 31, 2020 4:29:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1214
+2020.12.31 16:29:38 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:29:41 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:29:49 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:29:51 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:29:52 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:29:55 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:29:59 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:30:04 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:30:08 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:30:10 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:30:11 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:30:13 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:30:15 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:30:20 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:30:23 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:30:26 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:30:35 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:30:47 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:30:49 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:31:01 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:31:07 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+Dec 31, 2020 4:31:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1518
+2020.12.31 16:31:46 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:31:53 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:32:05 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:32:11 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:32:15 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:32:18 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:32:19 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:32:21 WARN  code navigation does not work for the file '/Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala' because it doesn't belong to a build target.
+2020.12.31 16:32:21 WARN  code navigation does not work for the file '/Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala' because it doesn't belong to a build target.
+2020.12.31 16:32:21 WARN  code navigation does not work for the file '/Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala' because it doesn't belong to a build target.
+2020.12.31 16:32:24 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:32:26 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:32:35 WARN  code navigation does not work for the file '/Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala' because it doesn't belong to a build target.
+2020.12.31 16:32:35 WARN  code navigation does not work for the file '/Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala' because it doesn't belong to a build target.
+Dec 31, 2020 4:32:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1693
+2020.12.31 16:32:38 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:32:41 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:32:59 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:33:01 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:33:03 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:33:06 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:33:09 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:33:15 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:34:21 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:34:22 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:34:28 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:34:37 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:34:41 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:34:44 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:34:46 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:34:50 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:35:01 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:35:05 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:35:07 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:35:09 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:35:11 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:35:13 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:36:28 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:36:47 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:36:48 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:37:54 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:37:58 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:38:00 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:38:03 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:38:12 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:39:27 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.31 16:39:35 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:39:47 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:41:03 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:41:08 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:41:20 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:41:38 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:41:50 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:41:57 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:42:00 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala in Array[<error>]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala, 794, 794, 809)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala in Array[<error>]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala, 794, 794, 802)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala in Array[<error>]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala, 794, 794, 803)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala in Array[<error>]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala, 794, 794, 804)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala in Array[<error>]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala, 794, 794, 806)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala in Array[String]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala, 794, 794, 807)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala in Array[String]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala, 794, 794, 807)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala in Array[String]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala, 794, 794, 807)
+2020.12.31 16:42:06 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:42:13 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:42:24 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:42:27 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:42:43 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:42:45 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:42:50 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:42:52 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:42:54 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:45:31 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:45:33 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:45:44 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:45:54 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:45:58 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:46:07 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:46:09 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:46:11 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:46:20 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:46:22 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:46:25 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:46:28 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:46:34 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:46:40 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:46:43 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:46:47 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:46:56 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:47:00 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:47:05 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:47:15 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:47:22 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:47:32 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:47:35 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:47:36 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:47:41 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:48:37 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:48:38 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:51:25 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:51:29 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:51:44 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:51:50 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:51:52 WARN  code navigation does not work for the file '/Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala' because it doesn't belong to a build target.
+2020.12.31 16:51:52 WARN  code navigation does not work for the file '/Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala' because it doesn't belong to a build target.
+2020.12.31 16:51:52 WARN  code navigation does not work for the file '/Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala' because it doesn't belong to a build target.
+2020.12.31 16:51:54 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:51:56 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:52:33 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:52:36 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:52:44 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:52:47 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:52:52 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:53:02 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:53:06 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:53:30 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:53:35 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:53:40 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:53:47 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:53:49 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:53:53 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:54:17 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:54:43 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:54:47 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:54:52 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:55:31 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:55:40 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:55:54 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:55:56 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:56:00 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:56:17 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:58:35 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:58:44 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:58:48 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 16:58:50 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:01:05 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:01:15 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:01:31 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:01:35 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:01:42 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:01:45 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:01:51 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:01:55 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:01:59 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:02:10 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:02:22 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:02:35 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:02:39 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:02:42 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:02:44 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:02:46 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:02:51 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:02:54 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:02:55 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:03:05 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala in Array[<error>]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala, 1051, 1051, 1066)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala in Array[<error>]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala, 1051, 1051, 1059)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala in Array[<error>]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala, 1051, 1051, 1060)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala in Array[<error>]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala, 1051, 1051, 1061)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala in Array[<error>]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala, 1051, 1051, 1062)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala in Array[<error>]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala, 1051, 1051, 1061)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala in Array[<error>]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala, 1051, 1051, 1060)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala in Array[<error>]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala, 1051, 1051, 1059)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala in Array[<error>]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala, 1051, 1051, 1060)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala in Array[String]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala, 1051, 1051, 1064)
+2020.12.31 17:03:12 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala in Array[String]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala, 1052, 1052, 1065)
+2020.12.31 17:03:14 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:03:47 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:03:55 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:04:05 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:04:10 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:04:15 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:04:20 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:04:23 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:04:25 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:04:59 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:05:23 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:05:26 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:05:31 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:05:44 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:05:47 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:05:50 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:05:52 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:06:04 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:06:05 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+Dec 31, 2020 5:06:09 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 1123, count -1, length 1277
+2020.12.31 17:06:11 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:06:15 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:06:19 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:06:39 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:06:41 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:06:43 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:06:48 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:06:54 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:06:56 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:06:58 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:07:02 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:07:07 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:07:09 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:07:10 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:07:11 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:07:17 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:07:18 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:07:21 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:07:24 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:07:27 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:07:28 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:07:31 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:07:36 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:07:42 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:08:04 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:08:08 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:08:10 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:08:13 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:08:15 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:08:20 WARN  code navigation does not work for the file '/Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala' because it doesn't belong to a build target.
+2020.12.31 17:08:25 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:08:31 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:08:40 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:08:42 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:12:41 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:12:42 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:13:11 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:13:18 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:13:42 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:14:00 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:14:09 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:14:12 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:14:15 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:14:19 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:14:28 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:14:31 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:14:37 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:14:51 WARN  code navigation does not work for the file '/Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala' because it doesn't belong to a build target.
+2020.12.31 17:14:57 WARN  code navigation does not work for the file '/Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala' because it doesn't belong to a build target.
+2020.12.31 17:14:58 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:15:00 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:15:18 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:15:20 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:15:26 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:15:28 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:15:30 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:15:33 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:15:36 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:15:39 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:15:56 WARN  code navigation does not work for the file '/Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala' because it doesn't belong to a build target.
+2020.12.31 17:15:58 WARN  code navigation does not work for the file '/Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala' because it doesn't belong to a build target.
+2020.12.31 17:16:27 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:16:32 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:16:36 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:16:40 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:17:00 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:17:02 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:17:04 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:17:06 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:17:07 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:17:21 WARN  code navigation does not work for the file '/Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala' because it doesn't belong to a build target.
+2020.12.31 17:17:22 WARN  code navigation does not work for the file '/Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala' because it doesn't belong to a build target.
+2020.12.31 17:17:29 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:17:45 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:18:56 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:19:25 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:19:37 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:19:39 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:19:41 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:19:44 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:19:46 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:19:51 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:19:57 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:19:59 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:20:01 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+Dec 31, 2020 5:20:04 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 1234, count -1, length 1314
+2020.12.31 17:20:06 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:20:08 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+Dec 31, 2020 5:20:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5068
+2020.12.31 17:20:10 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:20:13 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:20:16 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:20:22 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:20:24 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:20:27 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:20:32 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:20:33 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:20:35 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:20:38 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:20:41 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:20:44 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:20:51 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:21:33 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:21:38 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:21:39 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:21:49 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:21:50 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:22:22 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:23:58 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:24:02 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:24:07 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:24:17 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:24:33 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:24:37 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:24:46 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:24:54 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:25:07 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:25:14 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:25:22 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:25:36 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:25:57 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:26:01 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:26:05 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:26:06 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:26:08 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:26:16 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:26:22 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:26:24 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:26:30 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:26:54 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:27:08 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:27:59 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:28:04 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:28:07 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:28:09 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:28:36 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:30:10 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala in Iterable[<error>]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala, 1524, 1524, 1542)
+2020.12.31 17:30:12 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:30:15 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:30:18 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:30:23 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:30:34 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:30:37 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:30:40 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:30:55 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:30:58 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:31:00 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:31:05 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:31:20 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:32:11 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:32:14 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:32:23 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:32:38 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:32:39 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:32:41 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:32:45 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:32:47 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:32:50 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:32:51 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+Dec 31, 2020 5:32:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6197
+2020.12.31 17:33:01 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:33:09 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:33:42 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:33:46 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:33:48 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:33:52 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:33:57 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:34:01 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:34:12 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:34:24 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:34:49 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:34:52 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:34:55 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:34:57 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:35:05 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:35:07 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:35:10 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:35:12 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:35:14 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:36:52 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:37:01 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:37:03 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:37:07 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:37:09 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:37:12 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:37:15 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:37:26 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:37:53 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:37:56 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:38:51 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:40:17 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:40:23 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:40:29 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:40:30 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:40:42 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:40:44 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:40:56 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:40:58 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:41:22 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:41:23 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:41:26 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:41:30 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:41:33 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:41:42 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:41:42 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:41:44 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:41:46 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:41:48 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:42:07 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:42:12 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:42:15 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:42:26 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:43:10 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:43:11 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:43:15 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:44:06 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:44:15 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:44:20 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:44:47 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:44:51 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:46:59 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:47:02 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:47:04 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:47:06 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:47:07 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:47:11 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:47:14 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:47:20 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:47:21 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:47:27 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:47:38 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:47:41 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:47:43 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:47:51 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:47:58 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:48:00 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:48:13 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:48:17 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:49:13 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:49:13 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:49:16 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:49:20 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:51:35 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/PageViewCount.scala
+2020.12.31 17:54:36 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/project/metals.sbt
+2020.12.31 17:55:10 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/project/plugins.sbt
+2020.12.31 17:55:10 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/project/plugins.sbt
+2020.12.31 17:55:11 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/project/plugins.sbt
+2020.12.31 17:55:57 INFO  skipping build import with status 'Requested'
+2020.12.31 17:55:59 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/project/plugins.sbt
+2020.12.31 17:56:00 INFO  running '/Library/Java/JavaVirtualMachines/amazon-corretto-11.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/lv/3pzzyhsn4r94j719f8bkwcs40000gn/T/metals5660681081670957125/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2020.12.31 17:56:03 INFO  [info] welcome to sbt 1.4.4 (Amazon.com Inc. Java 11.0.3)
+2020.12.31 17:56:06 INFO  [info] loading settings for project wordcount-build-build-build from metals.sbt ...
+2020.12.31 17:56:07 INFO  [info] loading project definition from /Users/spark/Documents/Project1/wordcount/project/project/project
+2020.12.31 17:56:10 INFO  [info] loading settings for project wordcount-build-build from metals.sbt ...
+2020.12.31 17:56:10 INFO  [info] loading project definition from /Users/spark/Documents/Project1/wordcount/project/project
+2020.12.31 17:56:12 INFO  [success] Generated .bloop/wordcount-build-build.json
+2020.12.31 17:56:12 INFO  [success] Total time: 2 s, completed Dec 31, 2020, 5:56:12 PM
+2020.12.31 17:56:13 INFO  [info] loading settings for project wordcount-build from metals.sbt,plugins.sbt ...
+2020.12.31 17:56:13 INFO  [info] loading project definition from /Users/spark/Documents/Project1/wordcount/project
+2020.12.31 17:56:18 INFO  [success] Generated .bloop/wordcount-build.json
+2020.12.31 17:56:18 INFO  [success] Total time: 5 s, completed Dec 31, 2020, 5:56:18 PM
+2020.12.31 17:56:19 INFO  [info] loading settings for project wordcount from build.sbt ...
+2020.12.31 17:56:19 INFO  [info] set current project to WordCount (in build file:/Users/spark/Documents/Project1/wordcount/)
+2020.12.31 17:56:24 INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
+2020.12.31 17:56:24 INFO  [success] Generated .bloop/wordcount.json
+2020.12.31 17:56:24 INFO  [success] Generated .bloop/wordcount-test.json
+2020.12.31 17:56:24 INFO  [success] Total time: 4 s, completed Dec 31, 2020, 5:56:24 PM
+2020.12.31 17:56:24 INFO  sbt bloopInstall exit: 0
+2020.12.31 17:56:24 INFO  time: ran 'sbt bloopInstall' in 24s
+2020.12.31 17:56:24 INFO  Disconnecting from Bloop session...
+2020.12.31 17:56:25 INFO  Shut down connection with build server.
+2020.12.31 17:56:25 INFO  Shut down connection with build server.
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+2020.12.31 17:56:25 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/lv/3pzzyhsn4r94j719f8bkwcs40000gn/T/bsp-launcher548763410848513761/bsp.socket'...
+Waiting for the bsp connection to come up...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+[0m[32m[D][0m Loading 2 projects from '/Users/spark/Documents/Project1/wordcount/.bloop'...
+[0m[32m[D][0m Loading project from '/Users/spark/Documents/Project1/wordcount/.bloop/wordcount.json'
+[0m[32m[D][0m Loading project from '/Users/spark/Documents/Project1/wordcount/.bloop/wordcount-test.json'
+[0m[32m[D][0m Cache miss for scala instance org.scala-lang:scala-compiler:2.13.3.
+[0m[32m[D][0m   => /Users/spark/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.3.1/jna-5.3.1.jar
+[0m[32m[D][0m   => /Users/spark/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline/3.15.0/jline-3.15.0.jar
+[0m[32m[D][0m   => /Users/spark/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.3/scala-compiler-2.13.3.jar
+[0m[32m[D][0m   => /Users/spark/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.3/scala-library-2.13.3.jar
+[0m[32m[D][0m   => /Users/spark/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.3/scala-reflect-2.13.3.jar
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/lv/3pzzyhsn4r94j719f8bkwcs40000gn/T/bsp-launcher548763410848513761/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/lv/3pzzyhsn4r94j719f8bkwcs40000gn/T/bsp-launcher548763410848513761/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2020.12.31 17:56:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/spark/Library/Caches/org.scalameta.metals/bsp.trace.json
+2020.12.31 17:56:25 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+2020.12.31 17:56:25 INFO  Attempting to connect to the build server...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/lv/3pzzyhsn4r94j719f8bkwcs40000gn/T/bsp-launcher18273588780840829212/bsp.socket'...
+Waiting for the bsp connection to come up...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/lv/3pzzyhsn4r94j719f8bkwcs40000gn/T/bsp-launcher2145145415239893733/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/lv/3pzzyhsn4r94j719f8bkwcs40000gn/T/bsp-launcher2145145415239893733/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/lv/3pzzyhsn4r94j719f8bkwcs40000gn/T/bsp-launcher2145145415239893733/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2020.12.31 17:56:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/spark/Library/Caches/org.scalameta.metals/bsp.trace.json
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/lv/3pzzyhsn4r94j719f8bkwcs40000gn/T/bsp-launcher18273588780840829212/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/lv/3pzzyhsn4r94j719f8bkwcs40000gn/T/bsp-launcher18273588780840829212/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2020.12.31 17:56:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/spark/Library/Caches/org.scalameta.metals/bsp.trace.json
+2020.12.31 17:56:25 INFO  time: connected to build server in 0.63s
+2020.12.31 17:56:25 INFO  Connected to Build server v1.4.6-15-209c2a5c
+2020.12.31 17:56:26 INFO  time: imported build in 0.23s
+2020.12.31 17:56:30 INFO  time: indexed workspace in 4.68s
+2020.12.31 17:56:35 INFO  compiling wordcount (1 scala source)
+2020.12.31 17:56:42 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details
+2020.12.31 17:56:44 INFO  time: compiled wordcount in 8.79s
+2020.12.31 18:02:08 INFO  compiling wordcount (1 scala source)
+2020.12.31 18:02:10 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details
+2020.12.31 18:02:10 INFO  time: compiled wordcount in 2.56s
