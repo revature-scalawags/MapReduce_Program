@@ -41,3 +41,176 @@ Starting thread that pumps server stdout and redirects it to the client stdout..
 2020.12.30 19:11:47 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/build.sbt
 2020.12.30 19:11:53 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/Main.scala
 2020.12.30 19:12:19 INFO  skipping build import with status 'Dismissed'
+Dec 30, 2020 7:35:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 30, 2020 7:35:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2020.12.30 19:36:05 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/Main.scala
+2020.12.30 19:37:49 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/build.sbt
+2020.12.30 19:37:53 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/build.sbt
+2020.12.30 19:37:53 INFO  skipping build import with status 'Dismissed'
+2020.12.30 19:37:57 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/build.sbt
+2020.12.30 19:37:57 INFO  skipping build import with status 'Dismissed'
+2020.12.30 19:38:00 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/build.sbt
+2020.12.30 19:38:00 INFO  skipping build import with status 'Dismissed'
+2020.12.30 19:38:11 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/build.sbt
+2020.12.30 19:38:11 INFO  skipping build import with status 'Dismissed'
+2020.12.30 19:38:17 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/build.sbt
+2020.12.30 19:38:17 INFO  skipping build import with status 'Dismissed'
+2020.12.30 19:38:21 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/build.sbt
+2020.12.30 19:38:21 INFO  skipping build import with status 'Dismissed'
+2020.12.30 19:38:25 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/build.sbt
+2020.12.30 19:38:25 INFO  skipping build import with status 'Dismissed'
+2020.12.30 19:38:35 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/build.sbt
+2020.12.30 19:38:35 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/build.sbt
+2020.12.30 19:38:35 INFO  skipping build import with status 'Dismissed'
+2020.12.30 19:38:35 INFO  skipping build import with status 'Dismissed'
+2020.12.30 19:38:44 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/build.sbt
+2020.12.30 19:38:44 INFO  skipping build import with status 'Dismissed'
+2020.12.30 19:38:46 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/build.sbt
+2020.12.30 19:38:46 INFO  skipping build import with status 'Dismissed'
+2020.12.30 19:38:49 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/build.sbt
+2020.12.30 19:38:49 INFO  skipping build import with status 'Dismissed'
+2020.12.30 19:38:54 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/build.sbt
+2020.12.30 19:38:54 INFO  skipping build import with status 'Dismissed'
+2020.12.30 19:39:43 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/build.sbt
+2020.12.30 19:39:43 INFO  skipping build import with status 'Dismissed'
+2020.12.30 19:40:11 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/build.sbt
+2020.12.30 19:40:13 INFO  running '/Library/Java/JavaVirtualMachines/amazon-corretto-11.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/lv/3pzzyhsn4r94j719f8bkwcs40000gn/T/metals4847418523413324128/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2020.12.30 19:40:13 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/project/metals.sbt
+2020.12.30 19:40:13 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/project/project/metals.sbt
+2020.12.30 19:40:13 INFO  skipping build import with status 'Dismissed'
+2020.12.30 19:40:13 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/project/metals.sbt
+2020.12.30 19:40:13 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/project/project/metals.sbt
+2020.12.30 19:40:14 INFO  skipping build import with status 'Dismissed'
+2020.12.30 19:40:15 INFO  [info] welcome to sbt 1.4.4 (Amazon.com Inc. Java 11.0.3)
+2020.12.30 19:40:18 INFO  [info] loading settings for project wordcount-build-build from metals.sbt ...
+2020.12.30 19:40:18 INFO  [info] loading project definition from /Users/spark/Documents/Project1/wordcount/project/project
+2020.12.30 19:40:22 INFO  [info] loading settings for project wordcount-build from metals.sbt ...
+2020.12.30 19:40:22 INFO  [info] loading project definition from /Users/spark/Documents/Project1/wordcount/project
+2020.12.30 19:40:24 INFO  [success] Generated .bloop/wordcount-build.json
+2020.12.30 19:40:24 INFO  [success] Total time: 3 s, completed Dec 30, 2020, 7:40:25 PM
+2020.12.30 19:40:26 INFO  [info] loading settings for project wordcount from build.sbt ...
+2020.12.30 19:40:26 INFO  [info] set current project to WordCount (in build file:/Users/spark/Documents/Project1/wordcount/)
+2020.12.30 19:40:30 INFO  [warn] 
+2020.12.30 19:40:30 INFO  [warn] 	Note: Unresolved dependencies path:
+2020.12.30 19:40:30 INFO  [error] sbt.librarymanagement.ResolveException: Error downloading org.apache.hadoop:hadoop-comon:3.2.1
+2020.12.30 19:40:30 INFO  [error]   Not found
+2020.12.30 19:40:30 INFO  [error]   Not found
+2020.12.30 19:40:30 INFO  [error]   not found: /Users/spark/.ivy2/local/org.apache.hadoop/hadoop-comon/3.2.1/ivys/ivy.xml
+2020.12.30 19:40:30 INFO  [error]   not found: https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-comon/3.2.1/hadoop-comon-3.2.1.pom
+2020.12.30 19:40:30 INFO  [error] 	at lmcoursier.CoursierDependencyResolution.unresolvedWarningOrThrow(CoursierDependencyResolution.scala:258)
+2020.12.30 19:40:30 INFO  [error] 	at lmcoursier.CoursierDependencyResolution.$anonfun$update$38(CoursierDependencyResolution.scala:227)
+2020.12.30 19:40:30 INFO  [error] 	at scala.util.Either$LeftProjection.map(Either.scala:573)
+2020.12.30 19:40:30 INFO  [error] 	at lmcoursier.CoursierDependencyResolution.update(CoursierDependencyResolution.scala:227)
+2020.12.30 19:40:30 INFO  [error] 	at sbt.librarymanagement.DependencyResolution.update(DependencyResolution.scala:60)
+2020.12.30 19:40:30 INFO  [error] 	at sbt.internal.LibraryManagement$.resolve$1(LibraryManagement.scala:53)
+2020.12.30 19:40:30 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$12(LibraryManagement.scala:103)
+2020.12.30 19:40:30 INFO  [error] 	at sbt.util.Tracked$.$anonfun$lastOutput$1(Tracked.scala:73)
+2020.12.30 19:40:30 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$20(LibraryManagement.scala:116)
+2020.12.30 19:40:30 INFO  [error] 	at scala.util.control.Exception$Catch.apply(Exception.scala:228)
+2020.12.30 19:40:30 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$11(LibraryManagement.scala:116)
+2020.12.30 19:40:30 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$11$adapted(LibraryManagement.scala:97)
+2020.12.30 19:40:30 INFO  [error] 	at sbt.util.Tracked$.$anonfun$inputChangedW$1(Tracked.scala:219)
+2020.12.30 19:40:30 INFO  [error] 	at sbt.internal.LibraryManagement$.cachedUpdate(LibraryManagement.scala:130)
+2020.12.30 19:40:30 INFO  [error] 	at sbt.Classpaths$.$anonfun$updateTask0$5(Defaults.scala:3485)
+2020.12.30 19:40:30 INFO  [error] 	at scala.Function1.$anonfun$compose$1(Function1.scala:49)
+2020.12.30 19:40:30 INFO  [error] 	at sbt.internal.util.$tilde$greater.$anonfun$$u2219$1(TypeFunctions.scala:62)
+2020.12.30 19:40:30 INFO  [error] 	at sbt.std.Transform$$anon$4.work(Transform.scala:68)
+2020.12.30 19:40:30 INFO  [error] 	at sbt.Execute.$anonfun$submit$2(Execute.scala:282)
+2020.12.30 19:40:30 INFO  [error] 	at sbt.internal.util.ErrorHandling$.wideConvert(ErrorHandling.scala:23)
+2020.12.30 19:40:30 INFO  [error] 	at sbt.Execute.work(Execute.scala:291)
+2020.12.30 19:40:30 INFO  [error] 	at sbt.Execute.$anonfun$submit$1(Execute.scala:282)
+2020.12.30 19:40:30 INFO  [error] 	at sbt.ConcurrentRestrictions$$anon$4.$anonfun$submitValid$1(ConcurrentRestrictions.scala:265)
+2020.12.30 19:40:30 INFO  [error] 	at sbt.CompletionService$$anon$2.call(CompletionService.scala:64)
+2020.12.30 19:40:30 INFO  [error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+2020.12.30 19:40:30 INFO  [error] 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+2020.12.30 19:40:30 INFO  [error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+2020.12.30 19:40:30 INFO  [error] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+2020.12.30 19:40:30 INFO  [error] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+2020.12.30 19:40:30 INFO  [error] 	at java.base/java.lang.Thread.run(Thread.java:834)
+2020.12.30 19:40:30 INFO  [error] (update) sbt.librarymanagement.ResolveException: Error downloading org.apache.hadoop:hadoop-comon:3.2.1
+2020.12.30 19:40:30 INFO  [error]   Not found
+2020.12.30 19:40:30 INFO  [error]   Not found
+2020.12.30 19:40:30 INFO  [error]   not found: /Users/spark/.ivy2/local/org.apache.hadoop/hadoop-comon/3.2.1/ivys/ivy.xml
+2020.12.30 19:40:30 INFO  [error]   not found: https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-comon/3.2.1/hadoop-comon-3.2.1.pom
+2020.12.30 19:40:30 INFO  [error] Total time: 4 s, completed Dec 30, 2020, 7:40:30 PM
+2020.12.30 19:40:30 INFO  time: ran 'sbt bloopInstall' in 17s
+2020.12.30 19:40:30 INFO  sbt bloopInstall exit: 1
+2020.12.30 19:40:30 ERROR sbt command failed: /Library/Java/JavaVirtualMachines/amazon-corretto-11.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/lv/3pzzyhsn4r94j719f8bkwcs40000gn/T/metals4847418523413324128/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall
+2020.12.30 19:40:30 INFO  Disconnecting from Bloop session...
+2020.12.30 19:40:30 INFO  Shut down connection with build server.
+No more data in the client stdin, exiting...
+2020.12.30 19:40:30 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/lv/3pzzyhsn4r94j719f8bkwcs40000gn/T/bsp-launcher504083150109094886/bsp.socket'...
+Waiting for the bsp connection to come up...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/lv/3pzzyhsn4r94j719f8bkwcs40000gn/T/bsp-launcher504083150109094886/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/lv/3pzzyhsn4r94j719f8bkwcs40000gn/T/bsp-launcher504083150109094886/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2020.12.30 19:40:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/spark/Library/Caches/org.scalameta.metals/bsp.trace.json
+2020.12.30 19:40:30 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/lv/3pzzyhsn4r94j719f8bkwcs40000gn/T/bsp-launcher12169564809414714522/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/lv/3pzzyhsn4r94j719f8bkwcs40000gn/T/bsp-launcher12169564809414714522/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/lv/3pzzyhsn4r94j719f8bkwcs40000gn/T/bsp-launcher12169564809414714522/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2020.12.30 19:40:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/spark/Library/Caches/org.scalameta.metals/bsp.trace.json
+2020.12.30 19:40:30 INFO  time: connected to build server in 0.45s
+2020.12.30 19:40:30 INFO  Connected to Build server v1.4.6-15-209c2a5c
+2020.12.30 19:40:31 ERROR Empty build targets. Expected at least one build target identifier.
+2020.12.30 19:40:31 ERROR Empty build targets. Expected at least one build target identifier.
+2020.12.30 19:40:31 ERROR Empty build targets. Expected at least one build target identifier.
+2020.12.30 19:40:30 INFO  time: imported build in 0.11s
+2020.12.30 19:40:35 INFO  time: indexed workspace in 4.31s
+2020.12.30 19:40:35 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/Main.scala
+2020.12.30 19:40:47 INFO  skipping build import with status 'Dismissed'
+2020.12.30 19:41:46 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/Main.scala
+2020.12.30 19:45:47 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/map-reduce-sd/Main.scala
+2020.12.30 19:45:51 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/map-reduce-sd/Main.scala
+2020.12.30 19:45:56 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/map-reduce-sd/Main.scala
+2020.12.30 19:46:00 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/map-reduce-sd/Main.scala
+2020.12.30 19:46:19 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/map-reduce-sd/Main.scala
+2020.12.30 19:46:22 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/map-reduce-sd/Main.scala
+2020.12.30 19:46:34 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:46:38 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:46:47 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:46:49 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:46:50 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:46:56 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:46:59 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:47:02 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:47:12 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:47:14 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:47:16 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:47:18 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:47:21 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:47:24 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:47:29 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:47:31 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:47:36 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:47:38 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:47:41 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:47:46 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:47:54 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:48:02 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:48:06 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:48:11 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:48:23 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:48:28 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:48:30 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:48:41 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:48:42 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:48:46 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:49:24 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:49:26 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:49:35 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:49:35 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:49:41 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:49:50 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
+2020.12.30 19:59:56 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Main.scala
