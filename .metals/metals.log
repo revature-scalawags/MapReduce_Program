@@ -756,3 +756,50 @@ Starting thread that pumps server stdout and redirects it to the client stdout..
 2020.12.31 18:02:08 INFO  compiling wordcount (1 scala source)
 2020.12.31 18:02:10 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details
 2020.12.31 18:02:10 INFO  time: compiled wordcount in 2.56s
+Dec 31, 2020 6:27:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7977
+Dec 31, 2020 6:27:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7979
+2020.12.31 18:27:07 INFO  compiling wordcount (1 scala source)
+2020.12.31 18:27:10 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details
+2020.12.31 18:27:10 INFO  time: compiled wordcount in 2.89s
+2020.12.31 18:29:59 INFO  compiling wordcount (1 scala source)
+2020.12.31 18:30:03 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details
+2020.12.31 18:30:03 INFO  time: compiled wordcount in 4.2s
+2020.12.31 18:30:14 INFO  compiling wordcount (1 scala source)
+2020.12.31 18:30:15 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details
+2020.12.31 18:30:15 INFO  time: compiled wordcount in 1.29s
+2020.12.31 18:30:16 INFO  compiling wordcount (1 scala source)
+2020.12.31 18:30:18 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details
+2020.12.31 18:30:18 INFO  time: compiled wordcount in 1.99s
+2020.12.31 18:40:04 INFO  compiling wordcount (1 scala source)
+2020.12.31 18:40:04 INFO  time: compiled wordcount in 0.8s
+2020.12.31 18:40:08 INFO  compiling wordcount (1 scala source)
+2020.12.31 18:40:10 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details
+2020.12.31 18:40:10 INFO  time: compiled wordcount in 1.97s
+2020.12.31 18:55:35 INFO  compiling wordcount (1 scala source)
+2020.12.31 18:55:36 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details
+2020.12.31 18:55:36 INFO  time: compiled wordcount in 1.79s
+2020.12.31 18:55:43 INFO  compiling wordcount (1 scala source)
+2020.12.31 18:55:44 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details
+2020.12.31 18:55:44 INFO  time: compiled wordcount in 1.61s
+2020.12.31 18:56:02 INFO  compiling wordcount (1 scala source)
+2020.12.31 18:56:02 INFO  time: compiled wordcount in 0.45s
+Dec 31, 2020 6:56:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8200
+Dec 31, 2020 6:56:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8202
+2020.12.31 18:56:32 INFO  compiling wordcount (1 scala source)
+2020.12.31 18:56:34 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details
+2020.12.31 18:56:34 INFO  time: compiled wordcount in 1.87s
+Dec 31, 2020 6:57:17 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 1355, count -1, length 2399
+2020.12.31 18:57:19 INFO  compiling wordcount (1 scala source)
+2020.12.31 18:57:21 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details
+2020.12.31 18:57:21 INFO  time: compiled wordcount in 1.31s
+2020.12.31 18:58:01 INFO  compiling wordcount (1 scala source)
+2020.12.31 18:58:03 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details
+2020.12.31 18:58:03 INFO  time: compiled wordcount in 2.65s
+2020.12.31 18:58:17 INFO  compiling wordcount (1 scala source)
+2020.12.31 18:58:17 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details
+2020.12.31 18:58:17 INFO  time: compiled wordcount in 0.98s

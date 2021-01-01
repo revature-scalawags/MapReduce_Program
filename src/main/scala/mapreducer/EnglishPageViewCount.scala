@@ -1,7 +1,6 @@
 package mapreducer
 
 import java.io.{BufferedReader, FileReader, IOException}
-import java.net.URI
 import java.lang.Iterable
 
 import org.apache.hadoop.conf.Configuration
@@ -11,7 +10,6 @@ import org.apache.hadoop.mapreduce.{Job, Mapper, Reducer}
 import org.apache.hadoop.mapreduce.lib.input.{TextInputFormat, FileInputFormat}
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat
 import org.apache.hadoop.mapreduce.Counter
-import org.apache.hadoop.util.GenericOptionsParser
 import org.apache.hadoop.util._
 import scala.collection.JavaConverters._
 import scala.collection.mutable.ArrayBuffer
@@ -26,13 +24,13 @@ object EnglishPageViewCount {
       val line: String = value.toString
       
       //Showing only English Wikipedia pages
-      if(line.split("\\s")(0).substring(0, 2).equalsIgnoreCase("en")){
+      if(line.split("\\s")(0).contains("en")){
         val pageName: String = line.split("\\s")(1)
-        var pageViews = new IntWritable(line.split("\\s")(2).toInt)
+        //var pageViews = new IntWritable(line.split("\\s")(2).toInt)
         line.split("\\s").filter(_.length>0).foreach((word: String) => {
-          context.write(new Text(pageName), pageViews)
+          context.write(new Text(pageName), new IntWritable(1))
         })
-      }
+      }else{}
     }
   }
 
@@ -48,7 +46,7 @@ object EnglishPageViewCount {
 
   def main(args: Array[String]): Unit = {
     val configuration = new Configuration
-    val job = Job.getInstance(configuration, "PageViewCount")
+    val job = Job.getInstance(configuration, "EnglishPageViewCount")
 
     job.setJarByClass(this.getClass)
     job.setMapperClass(classOf[PageViewMap])
@@ -60,8 +58,8 @@ object EnglishPageViewCount {
     job.setOutputKeyClass(classOf[Text])
     job.setOutputValueClass(classOf[IntWritable])
 
-    FileInputFormat.addInputPath(job, new Path(args(0)))
-    FileOutputFormat.setOutputPath(job, new Path(args(0)))
+    FileInputFormat.setInputPaths(job, new Path(args(0)))
+    FileOutputFormat.setOutputPath(job, new Path(args(1)))
     System.exit(if(job.waitForCompletion(true)) 0 else 1 )
 
   }
