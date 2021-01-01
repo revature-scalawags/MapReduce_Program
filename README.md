@@ -9,9 +9,10 @@
 
 [ X ] run sample application text with sample txt file using mapreduce
 
-[  ] create my own .jar file to make filters to go through data
+[ X ] create my own .jar file to make filters to go through data
 - assembly
 
-[  ] answer questions using customized .jar file
+[ X ] answer questions using customized .jar file
+- Question number 1 answered using a customized pageViewCount mapper class, need to sort and then show top 10
 
 [  ] use hive to create query and run the query
