@@ -7,9 +7,9 @@
 
 [ X ] Unzip .gz files and move them to hdfs under input directory
 
-[ X ] Run sample application text with sample txt file using mapreduce
+[ X ] Run an example map/reduce program with sample txt file using mapreduce
 
-[ X ] Create my own .jar file to create filters
+[ X ] Create my own .jar file with customized filters
 - assembly
 - plug-in
 
