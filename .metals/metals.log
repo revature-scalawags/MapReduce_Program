@@ -1921,3 +1921,17 @@ WARNING: Unmatched cancel notification for request id 3195
 2021.01.03 01:29:31 INFO  compiling wordcount (1 scala source)
 2021.01.03 01:29:31 INFO  time: compiled wordcount in 0.94s
 something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/AscendingSort.scala in Iterable[org.apache.hadoop.io.Text]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/AscendingSort.scala, 1640, 1640, 1654)
+2021.01.03 13:04:50 INFO  compiling wordcount (1 scala source)
+2021.01.03 13:04:51 INFO  time: compiled wordcount in 1.32s
+2021.01.03 13:05:22 INFO  compiling wordcount (1 scala source)
+2021.01.03 13:05:23 INFO  time: compiled wordcount in 1.02s
+2021.01.03 13:05:29 INFO  compiling wordcount (1 scala source)
+2021.01.03 13:05:29 INFO  time: compiled wordcount in 0.78s
+2021.01.03 13:05:36 INFO  compiling wordcount (1 scala source)
+2021.01.03 13:05:42 INFO  time: compiled wordcount in 6.23s
+2021.01.03 13:05:46 INFO  compiling wordcount (1 scala source)
+2021.01.03 13:05:48 INFO  time: compiled wordcount in 1.94s
+2021.01.03 13:05:51 INFO  compiling wordcount (1 scala source)
+2021.01.03 13:05:53 INFO  time: compiled wordcount in 2.29s
+2021.01.03 13:06:58 INFO  compiling wordcount (1 scala source)
+2021.01.03 13:06:58 INFO  time: compiled wordcount in 0.58s

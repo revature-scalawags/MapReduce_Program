@@ -22,8 +22,8 @@ object EnglishPageViewCount {
   class PageViewMap extends Mapper[LongWritable, Text, Text, IntWritable]{
 
     @throws[IOException]
-    override def map(key: LongWritable, value: Text, context: Mapper[LongWritable, Text, Text, IntWritable]#Context): Unit ={
-      val line: String = value.toString
+    override def map(key: LongWritable, values: Text, context: Mapper[LongWritable, Text, Text, IntWritable]#Context): Unit ={
+      val line: String = values.toString
 
       //Showing only English Wikipedia pages
       if(line.substring(0,2).equals("en")){
