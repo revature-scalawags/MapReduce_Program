@@ -2842,3 +2842,7 @@ WARNING: Unmatched cancel notification for request id 7912
 2021.01.03 16:04:17 INFO  time: compiled wordcount in 0.85s
 2021.01.03 16:04:20 INFO  compiling wordcount (1 scala source)
 2021.01.03 16:04:20 INFO  time: compiled wordcount in 0.81s
+2021.01.03 16:06:38 INFO  compiling wordcount (1 scala source)
+2021.01.03 16:06:40 INFO  time: compiled wordcount in 2.06s
+Jan 03, 2021 6:38:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification

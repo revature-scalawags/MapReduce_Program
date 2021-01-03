@@ -25,7 +25,7 @@ object EnglishPageViewCount {
     ): Unit = {
       val line: String = values.toString
 
-      //Showing only English Wikipedia pages
+      //Displaying only English Wikipedia pages
       if (line.substring(0, 2).equals("en")) {
         val pageName: String = line.split("\\s")(1)
         var pageViews = line.split("\\s")(2).toInt
