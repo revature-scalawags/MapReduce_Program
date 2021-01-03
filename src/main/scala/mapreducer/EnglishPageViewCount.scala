@@ -21,8 +21,6 @@ object EnglishPageViewCount {
   
   class PageViewMap extends Mapper[LongWritable, Text, Text, IntWritable]{
 
-    // val one = new IntWritable(1)
-
     @throws[IOException]
     override def map(key: LongWritable, value: Text, context: Mapper[LongWritable, Text, Text, IntWritable]#Context): Unit ={
       val line: String = value.toString
@@ -63,6 +61,7 @@ object EnglishPageViewCount {
 
     FileInputFormat.setInputPaths(job, new Path(args(0)))
     FileOutputFormat.setOutputPath(job, new Path(args(1)))
+
     val success = job.waitForCompletion(true)
     System.exit(if(success) 0 else 1 )
 

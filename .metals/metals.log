@@ -1361,3 +1361,563 @@ something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/
 2020.12.31 23:52:31 INFO  compiling wordcount (1 scala source)
 2020.12.31 23:52:35 INFO  time: compiled wordcount in 3.79s
 something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/EnglishPageViewCount.scala in org.apache.hadoop.mapreduce.Reducer[org.apache.hadoop.io.Text,org.apache.hadoop.io.IntWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.IntWritable]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/EnglishPageViewCount.scala, 1290, 1290, 1335)
+2020.12.31 23:56:53 INFO  shutting down Metals
+2020.12.31 23:56:53 INFO  Shut down connection with build server.
+2020.12.31 23:56:53 INFO  Shut down connection with build server.
+2020.12.31 23:56:53 INFO  Shut down connection with build server.
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+2021.01.02 16:28:53 INFO  Started: Metals version 0.9.8 in workspace '/Users/spark/Documents/Project1/wordcount' for client vscode.
+2021.01.02 16:28:56 INFO  time: initialize in 3.18s
+2021.01.02 16:29:00 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/lv/3pzzyhsn4r94j719f8bkwcs40000gn/T/bsp-launcher3022005795634074709/bsp.socket'...
+Waiting for the bsp connection to come up...
+2021.01.02 16:29:00 WARN  no build target for: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/EnglishPageViewCount.scala
+2021.01.02 16:29:01 INFO  skipping build import with status 'Installed'
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.6-15-209c2a5c...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Loading 2 projects from '/Users/spark/Documents/Project1/wordcount/.bloop'...
+[0m[32m[D][0m Loading project from '/Users/spark/Documents/Project1/wordcount/.bloop/wordcount.json'
+[0m[32m[D][0m Loading project from '/Users/spark/Documents/Project1/wordcount/.bloop/wordcount-test.json'
+[0m[32m[D][0m Cache miss for scala instance org.scala-lang:scala-compiler:2.13.3.
+[0m[32m[D][0m   => /Users/spark/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.3.1/jna-5.3.1.jar
+[0m[32m[D][0m   => /Users/spark/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline/3.15.0/jline-3.15.0.jar
+[0m[32m[D][0m   => /Users/spark/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.3/scala-compiler-2.13.3.jar
+[0m[32m[D][0m   => /Users/spark/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.3/scala-library-2.13.3.jar
+[0m[32m[D][0m   => /Users/spark/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.3/scala-reflect-2.13.3.jar
+[0m[32m[D][0m Configured SemanticDB in projects 'wordcount', 'wordcount-test'
+[0m[32m[D][0m Missing analysis file for project 'wordcount-test'
+[0m[32m[D][0m Loading previous analysis for 'wordcount' from '/Users/spark/Documents/Project1/wordcount/target/streams/compile/bloopAnalysisOut/_global/streams/inc_compile_2.13.zip'.
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/lv/3pzzyhsn4r94j719f8bkwcs40000gn/T/bsp-launcher3022005795634074709/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/lv/3pzzyhsn4r94j719f8bkwcs40000gn/T/bsp-launcher3022005795634074709/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.02 16:29:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/spark/Library/Caches/org.scalameta.metals/bsp.trace.json
+2021.01.02 16:29:11 INFO  Attempting to connect to the build server...
+2021.01.02 16:29:11 Starting the bsp launcher for bloop...INFO  
+Attempting to connect to the build server...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/lv/3pzzyhsn4r94j719f8bkwcs40000gn/T/bsp-launcher5644279665695289959/bsp.socket'...
+Waiting for the bsp connection to come up...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/lv/3pzzyhsn4r94j719f8bkwcs40000gn/T/bsp-launcher1613476026062397366/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/lv/3pzzyhsn4r94j719f8bkwcs40000gn/T/bsp-launcher5644279665695289959/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/lv/3pzzyhsn4r94j719f8bkwcs40000gn/T/bsp-launcher5644279665695289959/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/lv/3pzzyhsn4r94j719f8bkwcs40000gn/T/bsp-launcher1613476026062397366/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/lv/3pzzyhsn4r94j719f8bkwcs40000gn/T/bsp-launcher1613476026062397366/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.02 16:29:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/spark/Library/Caches/org.scalameta.metals/bsp.trace.json
+2021.01.02 16:29:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/spark/Library/Caches/org.scalameta.metals/bsp.trace.json
+2021.01.02 16:29:12 INFO  time: connected to build server in 11s
+2021.01.02 16:29:12 INFO  Connected to Build server v1.4.6-15-209c2a5c
+2021.01.02 16:29:12 INFO  time: imported build in 0.18s
+2021.01.02 16:31:38 INFO  no build target: using presentation compiler with only scala-library
+2021.01.02 16:31:40 INFO  time: indexed workspace in 2m27s
+2021.01.03 00:21:28 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:21:37 INFO  time: compiled wordcount in 8.8s
+2021.01.03 00:29:42 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:29:42 INFO  time: compiled wordcount in 0.84s
+2021.01.03 00:29:42 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:29:44 INFO  time: compiled wordcount in 1.39s
+2021.01.03 00:29:52 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:29:54 INFO  time: compiled wordcount in 2.01s
+2021.01.03 00:30:01 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:30:03 INFO  time: compiled wordcount in 1.97s
+2021.01.03 00:30:09 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:30:09 INFO  time: compiled wordcount in 0.69s
+2021.01.03 00:30:35 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:30:35 INFO  time: compiled wordcount in 0.27s
+2021.01.03 00:30:40 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:30:40 INFO  time: compiled wordcount in 0.13s
+2021.01.03 00:30:45 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:30:45 INFO  time: compiled wordcount in 0.26s
+2021.01.03 00:30:55 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:30:55 INFO  time: compiled wordcount in 88ms
+2021.01.03 00:31:00 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:31:00 INFO  time: compiled wordcount in 0.23s
+2021.01.03 00:31:05 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:31:05 INFO  time: compiled wordcount in 0.2s
+2021.01.03 00:31:12 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:31:12 INFO  time: compiled wordcount in 0.22s
+2021.01.03 00:31:52 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:31:52 INFO  time: compiled wordcount in 0.22s
+Jan 03, 2021 12:31:52 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2021.01.03 00:31:57 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:31:57 INFO  time: compiled wordcount in 0.2s
+2021.01.03 00:31:58 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:31:58 INFO  time: compiled wordcount in 0.19s
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala in org.apache.hadoop.mapreduce.Reducer[org.apache.hadoop.io.Text,org.apache.hadoop.io.IntWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.IntWritable]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala, 1366, 1366, 1411)
+2021.01.03 00:32:03 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:32:03 INFO  time: compiled wordcount in 0.17s
+2021.01.03 00:32:06 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:32:06 INFO  time: compiled wordcount in 0.27s
+2021.01.03 00:32:47 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:32:47 INFO  time: compiled wordcount in 0.21s
+2021.01.03 00:32:57 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:32:57 INFO  time: compiled wordcount in 0.12s
+2021.01.03 00:33:01 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:33:01 INFO  time: compiled wordcount in 80ms
+2021.01.03 00:33:03 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:33:03 INFO  time: compiled wordcount in 65ms
+2021.01.03 00:33:18 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:33:18 INFO  time: compiled wordcount in 87ms
+2021.01.03 00:33:20 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:33:20 INFO  time: compiled wordcount in 63ms
+2021.01.03 00:33:21 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:33:21 INFO  time: compiled wordcount in 75ms
+2021.01.03 00:33:24 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:33:24 INFO  time: compiled wordcount in 64ms
+2021.01.03 00:35:04 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:35:04 INFO  time: compiled wordcount in 0.12s
+2021.01.03 00:35:09 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:35:09 INFO  time: compiled wordcount in 87ms
+2021.01.03 00:37:46 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:37:46 INFO  time: compiled wordcount in 99ms
+2021.01.03 00:37:49 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:37:49 INFO  time: compiled wordcount in 89ms
+2021.01.03 00:38:00 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:38:00 INFO  time: compiled wordcount in 0.27s
+2021.01.03 00:38:01 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:38:01 INFO  time: compiled wordcount in 0.15s
+2021.01.03 00:38:04 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:38:04 INFO  time: compiled wordcount in 0.15s
+2021.01.03 00:38:08 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:38:08 INFO  time: compiled wordcount in 0.26s
+2021.01.03 00:38:18 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:38:18 INFO  time: compiled wordcount in 0.11s
+2021.01.03 00:38:23 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:38:23 INFO  time: compiled wordcount in 0.24s
+2021.01.03 00:38:26 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:38:26 INFO  time: compiled wordcount in 0.15s
+2021.01.03 00:38:31 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:38:31 INFO  time: compiled wordcount in 66ms
+2021.01.03 00:38:34 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:38:34 INFO  time: compiled wordcount in 58ms
+2021.01.03 00:38:36 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:38:36 INFO  time: compiled wordcount in 0.11s
+2021.01.03 00:38:39 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:38:39 INFO  time: compiled wordcount in 0.19s
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala in Array[<error>]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala, 779, 779, 794)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala in Array[<error>]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala, 779, 779, 787)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala in Array[<error>]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala, 779, 779, 788)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala in Array[<error>]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala, 779, 779, 789)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala in Array[Byte]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala, 779, 779, 790)
+2021.01.03 00:38:45 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:38:45 INFO  time: compiled wordcount in 0.24s
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala in Array[Byte]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala, 779, 779, 790)
+2021.01.03 00:38:47 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:38:47 INFO  time: compiled wordcount in 0.15s
+2021.01.03 00:38:50 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:38:50 INFO  time: compiled wordcount in 66ms
+2021.01.03 00:38:51 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:38:51 INFO  time: compiled wordcount in 0.11s
+2021.01.03 00:38:57 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:38:57 INFO  time: compiled wordcount in 60ms
+2021.01.03 00:39:01 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:39:01 INFO  time: compiled wordcount in 59ms
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala in Array[<error>]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala, 814, 814, 829)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala in Array[<error>]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala, 814, 814, 822)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala in Array[<error>]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala, 814, 814, 823)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala in Array[<error>]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala, 814, 814, 824)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala in Array[Byte]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala, 814, 814, 825)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala in Array[Byte]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala, 814, 814, 825)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala in Array[Byte]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala, 814, 814, 825)
+2021.01.03 00:39:11 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:39:11 INFO  time: compiled wordcount in 90ms
+2021.01.03 00:39:18 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:39:18 INFO  time: compiled wordcount in 0.22s
+2021.01.03 00:39:27 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:39:27 INFO  time: compiled wordcount in 0.14s
+2021.01.03 00:39:35 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:39:35 INFO  time: compiled wordcount in 0.22s
+2021.01.03 00:39:39 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:39:39 INFO  time: compiled wordcount in 69ms
+2021.01.03 00:39:43 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:39:43 INFO  time: compiled wordcount in 77ms
+2021.01.03 00:39:48 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:39:48 INFO  time: compiled wordcount in 74ms
+2021.01.03 00:39:51 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:39:51 INFO  time: compiled wordcount in 96ms
+2021.01.03 00:39:54 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:39:54 INFO  time: compiled wordcount in 0.13s
+2021.01.03 00:39:56 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:39:56 INFO  time: compiled wordcount in 70ms
+2021.01.03 00:39:58 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:39:58 INFO  time: compiled wordcount in 74ms
+2021.01.03 00:40:01 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:40:01 INFO  time: compiled wordcount in 61ms
+2021.01.03 00:40:04 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:40:04 INFO  time: compiled wordcount in 65ms
+2021.01.03 00:40:11 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:40:11 INFO  time: compiled wordcount in 0.11s
+2021.01.03 00:41:37 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:41:37 INFO  time: compiled wordcount in 0.33s
+2021.01.03 00:41:38 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:41:38 INFO  time: compiled wordcount in 92ms
+2021.01.03 00:41:41 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:41:41 INFO  time: compiled wordcount in 96ms
+2021.01.03 00:41:45 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:41:45 INFO  time: compiled wordcount in 74ms
+2021.01.03 00:41:48 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:41:48 INFO  time: compiled wordcount in 0.11s
+2021.01.03 00:42:12 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:42:12 INFO  time: compiled wordcount in 74ms
+2021.01.03 00:42:15 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:42:15 INFO  time: compiled wordcount in 85ms
+2021.01.03 00:42:35 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:42:35 INFO  time: compiled wordcount in 0.55s
+2021.01.03 00:42:41 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:42:41 INFO  time: compiled wordcount in 0.15s
+2021.01.03 00:42:42 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:42:42 INFO  time: compiled wordcount in 0.32s
+2021.01.03 00:42:45 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:42:45 INFO  time: compiled wordcount in 0.15s
+Jan 03, 2021 12:45:56 AM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Jan 03, 2021 12:45:57 AM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Jan 03, 2021 12:45:57 AM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2021.01.03 00:46:00 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:46:00 INFO  time: compiled wordcount in 0.95s
+2021.01.03 00:46:04 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:46:04 INFO  time: compiled wordcount in 0.14s
+2021.01.03 00:46:14 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:46:14 INFO  time: compiled wordcount in 0.24s
+2021.01.03 00:46:16 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:46:16 INFO  time: compiled wordcount in 0.13s
+2021.01.03 00:46:18 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:46:18 INFO  time: compiled wordcount in 0.18s
+2021.01.03 00:46:22 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:46:22 INFO  time: compiled wordcount in 0.18s
+2021.01.03 00:47:10 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:47:10 INFO  time: compiled wordcount in 0.18s
+2021.01.03 00:47:16 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:47:16 INFO  time: compiled wordcount in 0.22s
+2021.01.03 00:47:23 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:47:23 INFO  time: compiled wordcount in 0.24s
+2021.01.03 00:48:04 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:48:04 INFO  time: compiled wordcount in 0.23s
+2021.01.03 00:48:36 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:48:36 INFO  time: compiled wordcount in 63ms
+2021.01.03 00:48:41 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:48:41 INFO  time: compiled wordcount in 0.3s
+2021.01.03 00:48:44 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:48:44 INFO  time: compiled wordcount in 0.16s
+2021.01.03 00:48:50 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:48:50 INFO  time: compiled wordcount in 0.27s
+2021.01.03 00:50:23 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:50:23 INFO  time: compiled wordcount in 0.24s
+2021.01.03 00:50:26 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:50:26 INFO  time: compiled wordcount in 0.25s
+2021.01.03 00:51:21 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:51:21 INFO  time: compiled wordcount in 0.2s
+2021.01.03 00:51:24 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:51:24 INFO  time: compiled wordcount in 0.19s
+2021.01.03 00:51:30 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:51:30 INFO  time: compiled wordcount in 0.15s
+2021.01.03 00:51:36 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:51:36 INFO  time: compiled wordcount in 0.21s
+2021.01.03 00:51:38 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:51:38 INFO  time: compiled wordcount in 0.14s
+2021.01.03 00:51:55 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:51:55 INFO  time: compiled wordcount in 0.1s
+2021.01.03 00:52:00 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:52:00 INFO  time: compiled wordcount in 62ms
+2021.01.03 00:52:02 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:52:02 INFO  time: compiled wordcount in 0.23s
+2021.01.03 00:52:08 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:52:08 INFO  time: compiled wordcount in 0.21s
+2021.01.03 00:52:14 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:52:14 INFO  time: compiled wordcount in 0.31s
+2021.01.03 00:52:17 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:52:17 INFO  time: compiled wordcount in 0.17s
+2021.01.03 00:52:22 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:52:22 INFO  time: compiled wordcount in 0.32s
+2021.01.03 00:52:23 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:52:23 INFO  time: compiled wordcount in 0.15s
+2021.01.03 00:52:25 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:52:25 INFO  time: compiled wordcount in 0.17s
+2021.01.03 00:52:28 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:52:28 INFO  time: compiled wordcount in 0.16s
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala in Iterable[org.apache.hadoop.io.IntWritable]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala, 1584, 1584, 1605)
+2021.01.03 00:52:36 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:52:36 INFO  time: compiled wordcount in 0.17s
+2021.01.03 00:52:37 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:52:37 INFO  time: compiled wordcount in 0.12s
+2021.01.03 00:53:03 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:53:03 INFO  time: compiled wordcount in 0.27s
+2021.01.03 00:53:14 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:53:14 INFO  time: compiled wordcount in 0.18s
+2021.01.03 00:53:18 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:53:18 INFO  time: compiled wordcount in 0.18s
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala in org.apache.hadoop.mapreduce.Reducer[org.apache.hadoop.io.Text,org.apache.hadoop.io.IntWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.IntWritable]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala, 1462, 1462, 1507)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala in org.apache.hadoop.mapreduce.Reducer[org.apache.hadoop.io.Text,org.apache.hadoop.io.IntWritable,org.apache.hadoop.io.Text,org.apache.hadoop.io.IntWritable]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala, 1462, 1462, 1507)
+2021.01.03 00:54:50 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:54:50 INFO  time: compiled wordcount in 0.58s
+2021.01.03 00:54:57 INFO  compiling wordcount (2 scala sources)
+2021.01.03 00:55:00 INFO  time: compiled wordcount in 2.54s
+2021.01.03 00:55:12 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:55:13 INFO  time: compiled wordcount in 1.75s
+2021.01.03 00:55:13 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:55:15 INFO  time: compiled wordcount in 0.2s
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala in Iterable[org.apache.hadoop.io.IntWritable]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala, 1583, 1583, 1604)
+2021.01.03 00:55:36 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:55:36 INFO  time: compiled wordcount in 0.22s
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala in Iterable[org.apache.hadoop.io.IntWritable]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala, 1583, 1583, 1604)
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala in Iterable[org.apache.hadoop.io.IntWritable]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala, 1583, 1583, 1604)
+2021.01.03 00:55:42 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:55:42 INFO  time: compiled wordcount in 0.14s
+2021.01.03 00:55:50 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:55:50 INFO  time: compiled wordcount in 0.17s
+2021.01.03 00:55:52 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:55:52 INFO  time: compiled wordcount in 0.15s
+2021.01.03 00:55:58 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:55:58 INFO  time: compiled wordcount in 0.14s
+2021.01.03 00:56:01 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:56:01 INFO  time: compiled wordcount in 0.13s
+2021.01.03 00:56:15 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:56:15 INFO  time: compiled wordcount in 0.23s
+2021.01.03 00:56:43 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:56:44 INFO  time: compiled wordcount in 1.54s
+2021.01.03 00:56:46 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:56:46 INFO  time: compiled wordcount in 58ms
+2021.01.03 00:56:48 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:56:48 INFO  time: compiled wordcount in 55ms
+2021.01.03 00:57:05 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:57:05 INFO  time: compiled wordcount in 96ms
+2021.01.03 00:57:09 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:57:09 INFO  time: compiled wordcount in 0.25s
+2021.01.03 00:57:15 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:57:15 INFO  time: compiled wordcount in 0.21s
+2021.01.03 00:57:21 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:57:21 INFO  time: compiled wordcount in 0.35s
+2021.01.03 00:57:25 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:57:25 INFO  time: compiled wordcount in 0.15s
+2021.01.03 00:57:45 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:57:45 INFO  time: compiled wordcount in 0.11s
+2021.01.03 00:57:47 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:57:47 INFO  time: compiled wordcount in 59ms
+2021.01.03 00:57:51 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:57:53 INFO  time: compiled wordcount in 1.89s
+2021.01.03 00:58:06 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:58:06 INFO  time: compiled wordcount in 0.17s
+2021.01.03 00:58:33 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:58:33 INFO  time: compiled wordcount in 0.19s
+2021.01.03 00:58:36 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:58:36 INFO  time: compiled wordcount in 0.13s
+2021.01.03 00:58:48 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:58:48 INFO  time: compiled wordcount in 0.17s
+2021.01.03 00:58:51 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:58:51 INFO  time: compiled wordcount in 0.37s
+2021.01.03 00:58:53 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:58:53 INFO  time: compiled wordcount in 55ms
+2021.01.03 00:59:09 INFO  compiling wordcount (1 scala source)
+2021.01.03 00:59:11 INFO  time: compiled wordcount in 1.91s
+2021.01.03 01:00:22 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:00:24 INFO  time: compiled wordcount in 2.03s
+2021.01.03 01:00:26 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:00:26 INFO  time: compiled wordcount in 0.79s
+2021.01.03 01:01:55 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:01:55 INFO  time: compiled wordcount in 0.17s
+2021.01.03 01:01:58 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:01:58 INFO  time: compiled wordcount in 0.12s
+2021.01.03 01:02:04 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:02:04 INFO  time: compiled wordcount in 0.14s
+2021.01.03 01:02:11 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:02:11 INFO  time: compiled wordcount in 0.2s
+2021.01.03 01:02:12 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:02:13 INFO  time: compiled wordcount in 1.15s
+2021.01.03 01:02:50 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:02:52 INFO  time: compiled wordcount in 1.53s
+2021.01.03 01:02:55 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:02:55 INFO  time: compiled wordcount in 0.19s
+2021.01.03 01:02:59 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:02:59 INFO  time: compiled wordcount in 0.16s
+2021.01.03 01:03:02 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:03:02 INFO  time: compiled wordcount in 0.98s
+2021.01.03 01:03:10 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:03:11 INFO  time: compiled wordcount in 1.2s
+2021.01.03 01:03:11 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:03:11 INFO  time: compiled wordcount in 0.4s
+2021.01.03 01:03:19 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:03:19 INFO  time: compiled wordcount in 0.18s
+2021.01.03 01:03:21 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:03:21 INFO  time: compiled wordcount in 0.22s
+2021.01.03 01:03:26 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:03:26 INFO  time: compiled wordcount in 0.16s
+2021.01.03 01:03:29 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:03:29 INFO  time: compiled wordcount in 54ms
+2021.01.03 01:03:32 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:03:32 INFO  time: compiled wordcount in 0.97s
+2021.01.03 01:04:03 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:04:04 INFO  time: compiled wordcount in 1.22s
+2021.01.03 01:04:06 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:04:06 INFO  time: compiled wordcount in 0.78s
+2021.01.03 01:04:13 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:04:15 INFO  time: compiled wordcount in 1.67s
+2021.01.03 01:04:15 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:04:16 INFO  time: compiled wordcount in 0.41s
+2021.01.03 01:04:21 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:04:22 INFO  time: compiled wordcount in 1.04s
+2021.01.03 01:05:47 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:05:47 INFO  time: compiled wordcount in 0.16s
+2021.01.03 01:05:50 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:05:50 INFO  time: compiled wordcount in 0.15s
+2021.01.03 01:05:57 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:05:57 INFO  time: compiled wordcount in 0.2s
+2021.01.03 01:06:40 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:06:41 INFO  time: compiled wordcount in 1.48s
+2021.01.03 01:14:08 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:14:11 INFO  time: compiled wordcount in 3.2s
+Jan 03, 2021 1:14:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2992
+2021.01.03 01:14:27 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:14:27 INFO  time: compiled wordcount in 0.23s
+2021.01.03 01:14:36 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:14:36 INFO  time: compiled wordcount in 0.19s
+2021.01.03 01:14:38 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:14:40 INFO  time: compiled wordcount in 1.24s
+2021.01.03 01:16:10 INFO  compiling wordcount (2 scala sources)
+2021.01.03 01:16:12 INFO  time: compiled wordcount in 2.19s
+Jan 03, 2021 1:16:15 AM scala.meta.internal.metals.Docstrings indexSymbol
+SEVERE: file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala
+java.nio.file.NoSuchFileException: /Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/Sort.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:116)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:215)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:370)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:421)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3205)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.CommonMtagsEnrichments$XtensionAbsolutePath.toInput(CommonMtagsEnrichments.scala:395)
+	at scala.meta.internal.metals.Docstrings.indexSymbolDefinition(Docstrings.scala:89)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:73)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:38)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:37)
+	at scala.meta.internal.pc.MetalsGlobal.symbolDocumentation(MetalsGlobal.scala:161)
+	at scala.meta.internal.pc.Signatures$SignaturePrinter.<init>(Signatures.scala:239)
+	at scala.meta.internal.pc.HoverProvider.toHover(HoverProvider.scala:199)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:50)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$hover$1(ScalaPresentationCompiler.scala:235)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withNonInterruptableCompiler$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2021.01.03 01:16:24 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:16:26 INFO  time: compiled wordcount in 1.81s
+2021.01.03 01:28:14 INFO  compiling wordcount (2 scala sources)
+2021.01.03 01:28:18 INFO  time: compiled wordcount in 3.69s
+Jan 03, 2021 1:28:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3195
+2021.01.03 01:28:23 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:28:26 INFO  time: compiled wordcount in 2.48s
+2021.01.03 01:28:41 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:28:43 INFO  time: compiled wordcount in 1.95s
+2021.01.03 01:29:04 INFO  compiling wordcount (3 scala sources)
+2021.01.03 01:29:04 INFO  time: compiled wordcount in 0.17s
+2021.01.03 01:29:04 INFO  compiling wordcount (3 scala sources)
+2021.01.03 01:29:04 INFO  time: compiled wordcount in 34ms
+2021.01.03 01:29:22 INFO  compiling wordcount (3 scala sources)
+2021.01.03 01:29:23 INFO  time: compiled wordcount in 1.9s
+2021.01.03 01:29:28 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:29:29 INFO  time: compiled wordcount in 1.35s
+2021.01.03 01:29:31 INFO  compiling wordcount (1 scala source)
+2021.01.03 01:29:31 INFO  time: compiled wordcount in 0.94s
+something's wrong: no file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/AscendingSort.scala in Iterable[org.apache.hadoop.io.Text]RangePosition(file:///Users/spark/Documents/Project1/wordcount/src/main/scala/mapreducer/AscendingSort.scala, 1640, 1640, 1654)
