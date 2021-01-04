@@ -84,8 +84,8 @@ object AscendingSortByValue {
 
     job.setMapOutputKeyClass(classOf[IntWritable])
     job.setMapOutputValueClass(classOf[Text])
-    job.setOutputKeyClass(classOf[IntWritable])
-    job.setOutputValueClass(classOf[Text])
+    job.setOutputKeyClass(classOf[Text])
+    job.setOutputValueClass(classOf[IntWritable])
     job.setSortComparatorClass(classOf[IntComparator])
 
     job.setInputFormatClass(classOf[KeyValueTextInputFormat])     //Using [KeyValueTextInputFormat] because it's always taking in mapreduced input

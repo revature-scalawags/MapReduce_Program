@@ -9,7 +9,7 @@ import org.apache.hadoop.fs.Path
 import org.apache.hadoop.io.{Text, IntWritable, LongWritable}
 import org.apache.hadoop.mapreduce.{Job, Mapper, Reducer}
 import org.apache.hadoop.mapreduce.lib.input.{TextInputFormat, FileInputFormat, KeyValueTextInputFormat}
-import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat
+import org.apache.hadoop.mapreduce.lib.output.{FileOutputFormat, TextOutputFormat}
 import org.apache.hadoop.mapreduce.Counter
 import org.apache.hadoop.util._
 import scala.collection.JavaConverters._
@@ -71,7 +71,10 @@ object DescendingSortByValue {
   }
 
   def main(args: Array[String]): Unit = {
-    val job = Job.getInstance()
+    val conf = new Configuration
+
+
+    val job = Job.getInstance(conf)
 
     job.setJarByClass(this.getClass)
     job.setJobName("Descending Sort By Value")
@@ -82,8 +85,8 @@ object DescendingSortByValue {
 
     job.setMapOutputKeyClass(classOf[IntWritable])  
     job.setMapOutputValueClass(classOf[Text])       
-    job.setOutputKeyClass(classOf[IntWritable])     
-    job.setOutputValueClass(classOf[Text])          
+    job.setOutputKeyClass(classOf[Text])     
+    job.setOutputValueClass(classOf[IntWritable])          
     job.setSortComparatorClass(classOf[IntComparator])
 
     job.setInputFormatClass(classOf[KeyValueTextInputFormat])    //Using [KeyValueTextInputFormat] because it's always taking in mapreduced input
