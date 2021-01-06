@@ -13,6 +13,17 @@ import org.apache.hadoop.mapreduce.Counter
 import org.apache.hadoop.util._
 import scala.collection.JavaConverters._
 
+/**
+  * This scala map/reduce program performs 2 primary functions:
+  *   1. Select only English Wikipedia pages from raw dataset and pass them to the mapper class
+  *   2. If a page name matches throughout the 24 pageview files, all relevant pageview numbers are combined and printed out as a whole. 
+  * 
+  *   *[Prerequisites]*
+  *     1. Wikipedia Pageview files (raw file)
+  *     3. SBT("1.4.4")
+  *     4. Scala("2.13.3")
+  */
+
 object EnglishPageViewCount {
 
   class PageViewMap extends Mapper[LongWritable, Text, Text, IntWritable] {
