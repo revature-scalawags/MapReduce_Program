@@ -3602,3 +3602,41 @@ WARNING: Unmatched cancel notification for request id 480
 2021.01.05 20:57:58 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/DescendingSortByValue.scala
 2021.01.05 20:57:58 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/EnglishPageViewCount.scala
 2021.01.05 21:08:55 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/DescendingSortByValue.scala
+2021.01.05 21:19:12 WARN  code navigation does not work for the file '/Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala' because it doesn't belong to a build target.
+2021.01.05 21:19:15 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
+2021.01.05 21:19:21 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
+Jan 06, 2021 12:33:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4047
+2021.01.06 00:34:32 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
+2021.01.06 00:34:49 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
+2021.01.06 00:34:50 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
+2021.01.06 00:48:12 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
+2021.01.06 00:48:15 WARN  code navigation does not work for the file '/Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala' because it doesn't belong to a build target.
+2021.01.06 00:48:15 WARN  code navigation does not work for the file '/Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala' because it doesn't belong to a build target.
+2021.01.06 00:48:15 WARN  code navigation does not work for the file '/Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala' because it doesn't belong to a build target.
+2021.01.06 00:48:17 WARN  code navigation does not work for the file '/Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala' because it doesn't belong to a build target.
+2021.01.06 00:48:18 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
+2021.01.06 00:48:25 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
+2021.01.06 00:48:44 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
+2021.01.06 00:48:45 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
+2021.01.06 00:48:48 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
+2021.01.06 00:48:56 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
+2021.01.06 00:49:00 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
+2021.01.06 00:49:02 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
+2021.01.06 00:49:02 WARN  code navigation does not work for the file '/Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala' because it doesn't belong to a build target.
+2021.01.06 00:49:02 WARN  code navigation does not work for the file '/Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala' because it doesn't belong to a build target.
+2021.01.06 00:49:11 WARN  code navigation does not work for the file '/Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala' because it doesn't belong to a build target.
+2021.01.06 00:49:13 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
+Jan 06, 2021 12:49:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4307
+2021.01.06 00:49:48 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
+2021.01.06 00:50:01 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
+2021.01.06 00:50:04 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
+2021.01.06 00:50:25 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
+2021.01.06 00:50:27 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
+2021.01.06 00:50:37 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
+2021.01.06 00:50:41 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
+2021.01.06 00:50:54 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
+2021.01.06 00:51:01 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
+Jan 06, 2021 2:18:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4518

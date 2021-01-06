@@ -27,6 +27,7 @@ import scala.collection.JavaConverters._
   *     1. GPSTracking.csv (raw file)
   *     3. SBT("1.4.4")
   *     4. Scala("2.13.3")
+  * 
   */
 
 object AddressCounter {
@@ -45,12 +46,13 @@ object AddressCounter {
       //Excluding heading and rows that show addess as unknown
       if (!line.contains("Date")) {
         if(!line.contains("Unknown")){
-          val addressExtracted = line.split("\"")(1).split(" ")
-          var addressWithoutZipCode: String = ""
-          for(i <- 0 until addressExtracted.length-1){
-            addressWithoutZipCode = addressWithoutZipCode + addressExtracted(i) + " "
+          val addressWithZipCode = line.split("\"")(1).split(" ")
+          val addressWithoutZipCode = addressWithZipCode.take(addressWithZipCode.length-1)
+          var key: String = ""
+          for(i <- addressWithoutZipCode){
+            key = key + i + " "
           }
-        context.write(new Text(addressWithoutZipCode), count)
+        context.write(new Text(key), count)
         }
       }
     }
