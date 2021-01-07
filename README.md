@@ -1,20 +1,11 @@
-# Project 1
+# Project 1   <img src="https://github.com/favicon.ico" width="20">
 
 ## Requirements
-[ x ] Download example mapreduce.jar file into local file system
-
-[ x ] Download wikipedia pageview data into local file system in hadoop
-
-[ X ] Unzip .gz files and move them to hdfs under input directory
-
-[ X ] Run an example map/reduce program with a sample txt file
-
-[ X ] Create my own .jar file with customized filters
-- assembly
-- plug-in
+[ x ] Create .jar file using a map/reduce program
 
 [ X ] Answer questions using a customized .jar file
-- **[Question #1]** - Find the most viewed English Wiki page on 10/20/2020    
+- **[Question #1]** - Find the most viewed English Wiki page on 10/20/2020 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wikipedia-logo-v2-en.svg/1920px-Wikipedia-logo-v2-en.svg.png" width="35">    
    - Create a customized mapper class to select only English Wiki page data.
    - There are 24 pageview files in one day - (00:00am ~ 23:00pm). If a page name matches throughout the 24 pageview files, all relevant pageview numbers must be combined and printed out as a whole. [Wikipedia Pageview Dataset URL](https://dumps.wikimedia.org/other/pageviews/2020/2020-10/)
         >**Original Dataset Format** (01:00am file & 02:00am file)<br />
