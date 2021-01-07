@@ -1,11 +1,11 @@
-# Project 1   <img src="https://github.com/favicon.ico" width="20">
+# Project 1
 
 ## Requirements
 [ x ] Create .jar file using a map/reduce program
 
-[ X ] Answer questions using a customized .jar file
-- **[Question #1]** - Find the most viewed English Wiki page on 10/20/2020 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wikipedia-logo-v2-en.svg/1920px-Wikipedia-logo-v2-en.svg.png" width="35">    
+[ X ] Answer questions using a customized .jar file <br /> <br />
+- <img src="https://i.pinimg.com/originals/54/d7/a2/54d7a2f5ab4004654d18686baf3f44c8.jpg" width="200">   
+- **[Question #1]** - Find the most viewed English Wiki page on 10/20/2020  
    - Create a customized mapper class to select only English Wiki page data.
    - There are 24 pageview files in one day - (00:00am ~ 23:00pm). If a page name matches throughout the 24 pageview files, all relevant pageview numbers must be combined and printed out as a whole. [Wikipedia Pageview Dataset URL](https://dumps.wikimedia.org/other/pageviews/2020/2020-10/)
         >**Original Dataset Format** (01:00am file & 02:00am file)<br />
@@ -19,6 +19,8 @@
         >`2020Presidential-Election 1270`<br />
     - All the mapreduced data output must be sorted by values in a descending order to show only **top 10 most viewed Wiki pages** on 10/20/2020. *Map/Reduce program by default sort the output by keys. 
     - A second map/reduce program is created for sorting by values. Run the second map/reduce program on the ouput produced by the first map/reduce program. <br /><br />
+<br /> <br />
+- <img src = "https://media-assets-03.thedrum.com/cache/images/thedrum-prod/s3-screen_shot_2019-08-27_at_1.36.42_pm--default--1280.png" width="200">
 - **[Question #2]** - What are the top 3 recommended **Starbucks** stores that are geographically the most accessible to me, based on the analysis of my driving data from 11/23/2020 to 12/31/2020 <br /> <br />
     - **[Step 1]** - Show top 5 most appeared addresses in the GPSTracking.csv file using a map/reduce program. <br /> <br />
     - **[Step 2]** - Display U.S. Starbucks stores that are only located in the same city and state as appeared in the addresses from [Step 1].
