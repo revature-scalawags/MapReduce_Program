@@ -13,10 +13,6 @@ import org.apache.hadoop.mapreduce.Counter
 import org.apache.hadoop.util._
 import scala.collection.JavaConverters._
 
-//Date,Type,Speed,Address,Distance (mi)
-//12/31/20 23:11,Heartbeat,1mph,"10910 Brunson Dr, Duluth, GA 30097",778.12
-//12/31/20 12:52,Move,30mph,Unknown,773.08
-
 /**
   * This scala map/reduce program performs 2 primary functions:
   *   1. Select only the rows that contain the same city name as appeeared in the mapreduced GPSTrackingOutput.txt.

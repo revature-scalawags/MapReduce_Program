@@ -4412,3 +4412,14 @@ Starting thread that pumps server stdout and redirects it to the client stdout..
 2021.01.07 16:04:33 INFO  time: indexed workspace in 2m19s
 2021.01.07 16:04:33 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/StarbucksLocationSelector.scala
 2021.01.07 16:06:48 INFO  no build target: using presentation compiler with only scala-library
+2021.01.07 16:40:56 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/EnglishPageViewCount.scala
+2021.01.07 16:41:15 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/DescendingSortByValue.scala
+2021.01.07 16:41:15 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AscendingSortByValue.scala
+2021.01.07 16:41:17 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/DescendingSortByValue.scala
+2021.01.07 16:41:51 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/EnglishPageViewCount.scala
+Jan 07, 2021 6:04:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 35
+2021.01.07 18:04:21 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
+2021.01.07 18:04:28 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
+2021.01.07 18:04:30 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
+2021.01.07 18:24:42 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/StarbucksLocationSelector.scala

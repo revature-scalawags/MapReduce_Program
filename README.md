@@ -8,7 +8,7 @@
 - **[Question #1]** - Find the most viewed English Wiki page on 10/20/2020  
    - Create a customized mapper class to select only English Wiki page data.
    - There are 24 pageview files in one day - (00:00am ~ 23:00pm). If a page name matches throughout the 24 pageview files, all relevant pageview numbers must be combined and printed out as a whole. [Wikipedia Pageview Dataset URL](https://dumps.wikimedia.org/other/pageviews/2020/2020-10/)
-        >**Original Dataset Format** (01:00am file & 02:00am file)<br />
+        >**Original Pageview Dataset Format** (01:00am file & 02:00am file)<br />
         >`<Language of Wiki Page> | <Page Name> | <Pageview Number> | <N/A>`<br />
         >`ab Москва_1980 11 0`<br />
         >`cd Ureum 251 0`<br />
@@ -22,8 +22,35 @@
 <br /> <br />
 - <img src = "https://media-assets-03.thedrum.com/cache/images/thedrum-prod/s3-screen_shot_2019-08-27_at_1.36.42_pm--default--1280.png" width="200">
 - **[Question #2]** - What are the top 3 recommended **Starbucks** stores that are geographically the most accessible to me, based on the analysis of my driving data from 11/23/2020 to 12/31/2020 <br /> <br />
-    - **[Step 1]** - Show top 5 most appeared addresses in the GPSTracking.csv file using a map/reduce program. <br /> <br />
-    - **[Step 2]** - Display U.S. Starbucks stores that are only located in the same city and state as appeared in the addresses from [Step 1].
-    [Starbucks Locations Dataset URL](https://github.com/chrismeller/StarbucksLocations) <br /> <br />
+    - **[Step 1]** - Show top 5 most appeared addresses in the GPSTracking.csv using a map/reduce program. 
+        >**Original GPS Tracker Dataset Format** <br />
+        >`<Date> | <Type> | <Speed> | <Address> | <Distance>` <br />
+        >`12/31/20 23:11,Heartbeat,1mph,"10910 Brunson Dr, Duluth, GA 30097",778.12` <br />
+        >`12/10/20 13:27,Move,11mph,"10910 Brunson Dr, Duluth, GA 30097",620.12` <br />
+        >`12/9/20 13:27,Move,17mph,"10910 Brunson Dr, Duluth, GA 30097",601.28` <br />
+        >`11/22/20 15:17,Heartbeat,0mph,"6045 Bartam Cove, Duluth, GA 30097",550.12` <br />
+
+        >**MapReduced Data Output**<br />
+        >`10910 Brunson Dr, Duluth, GA  3` <br />
+        >`6045 Bartam Cove, Duluth, GA  1` <br />
+    - **[Step 2]** - Display U.S. Starbucks stores that are only located in the same city and state as appeared in the addresses from [Step 1].[Starbucks Locations Dataset URL](https://github.com/chrismeller/StarbucksLocations) <br /> <br />
+        >**Original Starbucks Dataset Format** <br />
+        >`<Date> | <Type> | <Speed> | <Address> | <Distance>` <br />
+        >`12/31/20 23:11,Heartbeat,1mph,"10910 Brunson Dr, Duluth, GA 30097",778.12` <br />
+        >`12/10/20 13:27,Move,11mph,"10910 Brunson Dr, Duluth, GA 30097",620.12` <br />
+        >`12/9/20 13:27,Move,17mph,"10910 Brunson Dr, Duluth, GA 30097",601.28` <br />
+        >`11/22/20 15:17,Heartbeat,0mph,"6045 Bartam Cove, Duluth, GA 30097",550.12` <br />
+
+        >**MapReduced Data Output**<br />
+        >`10910 Brunson Dr, Duluth, GA  3` <br />
+        >`6045 Bartam Cove, Duluth, GA  1` <br />
     - **[Step 3]** - Use Google's Distance Matrix API to compute travel distances between 5 addresses from [Step 1] and each Starbucks store location from [Step 2]. [Google Map's Distance Matrix API](https://developers.google.com/maps/documentation/distance-matrix/start) <br /> <br />
     - **[Step 4]** - Use an algorithm to recommend top 3 Starbucks stores that are most accessible to me (aka. Top 3 Starbucks Near Me Recommendation). [Separate Repo for Starbucks Near Me Recommendation App](https://github.com/spark131008/Project1-StarbucksLocationRecommendation) <br /> <br />
+
+
+
+    Id,StarbucksId,Name,BrandName,StoreNumber,PhoneNumber,OwnershipType,Street1,Street2,Street3,City,CountrySubdivisionCode,CountryCode,PostalCode,Longitude,Latitude,TimezoneOffset,TimezoneId,TimezoneOlsonId,FirstSeen,LastSeen
+// 1f2d204f-e773-4361-9158-0008307dbd5e,10357,Target Virginia T-847,Starbucks,76666-97597,218-741-6603,LS,1001 13th St S,,,Virginia,MN,US,557923254,-92.55,47.51,-360,Central Standard Time,GMT-06:00 America/Chicago,12/8/2013 5:41:59 PM,2/3/2017 12:00:00 AM
+// 072752df-b30b-4f3f-a9b8-000ae32f8666,14667,Target Trumbull T-1956,Starbucks,76306-93245,203-455-0102,LS,120 Hawley Ln,,,Trumbull,CT,US,066115347,-73.15,41.23,-300,Eastern Standard Time,GMT-05:00 America/New_York,12/8/2013 5:41:59 PM,2/3/2017 12:00:00 AM
+// d387414f-827a-49b1-8002-000ced29086e,16329,Albertsons-Oceanside #6733,Starbucks,73636-67161,760-729-3468,LS,3450 Marron Rd,,,Oceanside,CA,US,920564672,-117.30,33.18,-480,Pacific Standard Time,GMT-08:00 America/Los_Angeles,12/8/2013 5:41:59 PM,2/3/2017 12:00:00 AM
+// c247cc83-e908-4046-a9e1-000de0f73ea5,1015467,SEC Lincoln & Yosemite - Lone Tree,Starbucks,27851-193845,(720) 467-4703,CO,9998 Commons St.,,,Lone Tree,CO,US,80124,-104.88,39.54,-420,Mountain Standard Time,GMT-07:00 America/Denver,8/16/2016 12:00:00 AM,2/3/2017 12:00:00 AM
