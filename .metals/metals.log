@@ -4423,3 +4423,9 @@ WARNING: Unmatched cancel notification for request id 35
 2021.01.07 18:04:28 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
 2021.01.07 18:04:30 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/AddressCounter.scala
 2021.01.07 18:24:42 WARN  no build target for: /Users/spark/Documents/Project1 - CreateJar/wordcount/src/main/scala/mapreducer/StarbucksLocationSelector.scala
+Jan 07, 2021 7:18:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 94
+Jan 07, 2021 7:18:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 96
+Jan 07, 2021 7:18:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 95
