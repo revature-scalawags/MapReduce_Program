@@ -26,13 +26,13 @@ If all of the prerequisites above are met, go ahead and clone this repo by using
 ```
 git clone https://github.com/revature-scalawags/MapReduce_Program.git
 ```
-In order to create  a jar file, use the command below:
+In order to create a jar file, use the command below:
 ```
 sbt clean compile assembly
 ```
-Once the jar file is created, copy the jar file located within /target/scala-2.13 direcotry and paste it to JVM or a local cluster.<br/>
+Once a jar file is created, copy the file located within /target/scala-2.13 direcotry and paste it to JVM or a local cluster.<br/>
 
-In order to run the jar file in Hadoop, use the command below:
+In order to run a jar file using Apache Hadoop in a Docker container, use the command below:
 ```
 hadoop jar WordCount-assembly-1.0.jar mapreducer.EnglishPageViewCount input output
 ```
